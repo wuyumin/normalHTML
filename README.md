@@ -12,3 +12,5 @@
 #### `mob.html`：手机常用网页文件结构  
   
 本项目Sublime Text代码编辑器snippet已完成 https://github.com/wuyumin/mySublimeText/tree/master/snippet
+  
+如果出现什么问题或有什么建议，欢迎你在GitHub里Pull Requests或Issues一下，方便进行改进。  

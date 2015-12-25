@@ -12,6 +12,15 @@
   
 #### `mob.html`：手机常用网页文件结构  
   
-本项目Sublime Text代码编辑器snippet已完成 https://github.com/wuyumin/mySublimeText/tree/master/snippet
+本项目Sublime Text代码编辑器snippet已完成 https://github.com/wuyumin/mySublimeText/tree/master/snippet  
+  
+#### `微信分享显示缩略图`  
+图片的尺寸是有要求的，长和宽都要300px及以上。  
+```html
+<div style="display:none;">
+	<img src="/wechat_share.png" alt="">
+</div>
+```
+另外，微信获取缩略图是按代码的顺序来的，获取到第一张符合要求的图片后就调用了，所以微信分享这段代码置放的顺序会影响缩略图效果。我一般做法是首页放在body标签段最前面，列表页和详情页放在body标签段结束前(这样方便微信先拿其他符合要求的图片，这个图当作备用) 。  
   
 如果出现什么问题或有什么建议，欢迎你在GitHub里Pull Requests或Issues一下，方便进行改进。  

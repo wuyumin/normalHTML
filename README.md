@@ -12,6 +12,8 @@
   
 #### `mob.html`：手机常用网页文件结构  
   
+#### `head.md`：网页head(含常用meta标签)  
+  
 本项目Sublime Text代码编辑器snippet已完成 https://github.com/wuyumin/mySublimeText/tree/master/snippet  
   
 #### `微信分享显示缩略图`：非采用JS-SD形式  

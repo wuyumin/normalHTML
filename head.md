@@ -29,6 +29,8 @@ nofollow：页面上的链接不可以被查询。
 <meta name="robots" content="index,follow">
 <!--DNS预解析，可使用双斜杆自适应协议-->
 <link rel="dns-prefetch" href="//预解析网址">
+<!--苹果添加到主屏后的图标-->
+<link rel="apple-touch-icon-precomposed" href="图片网址">
 <!--苹果App广告条-->
 <meta name="apple-itunes-app" content="app-id=苹果AppStoreID">
 <!--浏览器何种内核渲染-->

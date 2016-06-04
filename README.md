@@ -14,7 +14,7 @@
   
 #### `head.md`：网页head(含常用meta标签)  
   
-本项目Sublime Text代码编辑器snippet已完成 https://github.com/wuyumin/mySublimeText/tree/master/snippet  
+本项目Sublime Text代码编辑器snippet已完成 [https://github.com/wuyumin/SublimeText3/tree/master/UserSnippet](https://github.com/wuyumin/SublimeText3/tree/master/UserSnippet)  
   
 #### `微信分享显示缩略图`：非采用JS-SD形式  
 图片的尺寸是有要求的，长和宽都要300px及以上。  

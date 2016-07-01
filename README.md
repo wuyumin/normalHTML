@@ -16,6 +16,9 @@
   
 本项目Sublime Text代码编辑器snippet已完成 [https://github.com/wuyumin/SublimeText3/tree/master/UserSnippet](https://github.com/wuyumin/SublimeText3/tree/master/UserSnippet)  
   
+#### 链接建议使用“相对协议”  
+相对协议，也就是链接以`//`开头，前面去掉了`http:`或`https:`字样，这样做的好处是浏览器能够根据你的网站当前所采用的协议来加载服务器上的文件，这样无论今后是采用 http 还是 https 协议，都不用再次修改文件的链接地址了。
+	
 #### `微信分享显示缩略图`：非采用JS-SD形式  
 图片的尺寸是有要求的，长和宽都要300px及以上。  
 ```html
